@@ -1,4 +1,4 @@
-# Sleepless-in-america
+# Sleepless-In-America
 
 Right now, everyone is in quarantine because of the Invisible Enemy (Coronavirus Pandemic). So, during that time, I wanted to see what people are doing during this time. Most of us are either doing office work or are attending online lectures like me. Also, most of the time of people is gone in SLEEPING as some people want to rest from their busy life’s. So, while thinking about it, I wanted to see what average sleep durations people in USA have and how it has changed for over the years. While searching for it, I came across dataset on data.world website where Time Americans Spend on Sleeping was shared. It has average hours of different age groups of Americans from 2003 to 2017.
 		The motivation for this visualization was explore the sleep pattern of different age groups according to gender, type of day, average hours of sleep. Also, it will be useful to see the trend in sleep pattern of Americans over the years from 2003 to 2017.
